@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/QGIS-q.png" style="float:right;width:180px;">
 
-# Edit Vector Data with *QGIS*
+# Create Custom Map with *QGIS* Print Layout
 
 - Pre-workshop activities: 5 min 
 - Introductory presentation: 30 min
