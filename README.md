@@ -1,4 +1,4 @@
-# QGIS Print Layout
+# Create Custom Map with QGIS Print Layout
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/qgis-printlayout/
