@@ -16,7 +16,7 @@ nav_order: 1
 [QGIS](https://qgis.org/download/){:target="_blank"} is a free, open source desktop Geographic Information Systems (GIS) package that allows users to analyze and edit spatial information and create and export maps.
 
 ## This Workshop
-Participants will create a customizable detailed map with inset overview map, Lat/Long grid, Legend, etc. This introductory workshop will cover basic concepts in QGIS and QGIS print layout, and will include exercises on utilising vector data and creating a customizable detailed map. This workshop is designed to help students who are new to QGIS and Print Layout to understand and utilize some of the main features.
+Participants will create a customizable detailed map with inset overview map, Lat/Long grid, Legend, etc. This introductory workshop will cover basic concepts in QGIS and QGIS Print Layout, and will include exercises on utilising vector data and creating a customizable detailed map. This workshop is designed to help students who are new to QGIS and Print Layout to understand and utilize some of the main features.
 
 ## Learning objectives
 - Review and list differences with some mapping tools
