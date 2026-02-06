@@ -22,4 +22,4 @@ Please review the following <a href="images/QGIS_PrintLayoutMap_IntroductorySlid
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[NEXT STEP: Workshop Exercise](Activity1.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Exercise](Activity.html){: .btn .btn-blue }
