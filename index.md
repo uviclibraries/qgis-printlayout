@@ -18,6 +18,8 @@ nav_order: 1
 ## This Workshop
 Participants will create a customizable detailed map with inset overview map, Lat/Long grid, Legend, etc. This introductory workshop will cover basic concepts in QGIS and QGIS Print Layout, and will include exercises on utilising vector data and creating a customizable detailed map. This workshop is designed to help students who are new to QGIS and Print Layout to understand and utilize some of the main features.
 
+The use of a second screen or printing out of the workshop exercise prior to the workshop is *highly recommended*
+
 ## Learning objectives
 - Review and list differences with some mapping tools
 - Identify and navigate key Print Layout elements
