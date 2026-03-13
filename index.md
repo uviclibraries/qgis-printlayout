@@ -17,9 +17,9 @@ nav_order: 1
 
 ## This Workshop
 **It is highly recommended to:**
-- Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)
-- Use a second monitor or print out the workshop activities
-- Use mouse with a scroll wheel
+- **Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)**
+- **Use a second monitor or print out the workshop activities**
+- **Use mouse with a scroll wheel**
 
 Participants will create a customizable detailed map with inset overview map, Lat/Long grid, Legend, etc. This introductory workshop will cover basic concepts in QGIS and QGIS Print Layout, and will include exercises on utilising vector data and creating a customizable detailed map. This workshop is designed to help students who are new to QGIS and Print Layout to understand and utilize some of the main features.
 
