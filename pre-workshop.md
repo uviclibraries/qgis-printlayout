@@ -14,4 +14,8 @@ This workshop is primarily hands-on with **QGIS** in order to learn to use key f
 - **The use of a mouse with a scroll wheel is highly recommended.**
 - **The use of a second screen or printing out of the workshop exercise prior to the workshop is highly recommended.**
 
+If desired, view [Introduction to *QGIS* Print Layout](https://www.youtube.com/watch?v=ojRrIZ0M8o4) prior to the workshop.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojRrIZ0M8o4?si=A_jPcm92741Q-Ubj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
