@@ -8,7 +8,7 @@ nav_order: 1
 # Create Custom Map with *QGIS* Print Layout
 
 - Pre-workshop activities: 5 min 
-- Introductory presentation: 30 min
+- Introductory presentation: 20-30 min
 - Hands-on activities: 60 min
 
 ## Why QGIS? 
