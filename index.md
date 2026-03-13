@@ -16,9 +16,10 @@ nav_order: 1
 [QGIS](https://qgis.org/download/){:target="_blank"} is a free, open source desktop Geographic Information Systems (GIS) package that allows users to analyze and edit spatial information and create and export maps.
 
 ## This Workshop
-- **The completion of [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector) prior to this workshop is highly recommended.**
-- **The use of a mouse with a scroll wheel is highly recommended.**
-- **The use of a second screen or printing out of the workshop exercise prior to the workshop is highly recommended.**
+**It is highly recommended to:**
+- Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)
+- Use a second monitor or print out the workshop activities
+- Use mouse with a scroll wheel
 
 Participants will create a customizable detailed map with inset overview map, Lat/Long grid, Legend, etc. This introductory workshop will cover basic concepts in QGIS and QGIS Print Layout, and will include exercises on utilising vector data and creating a customizable detailed map. This workshop is designed to help students who are new to QGIS and Print Layout to understand and utilize some of the main features.
 
